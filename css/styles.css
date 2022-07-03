@@ -318,6 +318,9 @@ caption {
   color: #6c757d;
   text-align: left;
 }
+card {
+  width: 200px;
+}
 
 th {
   text-align: inherit;
