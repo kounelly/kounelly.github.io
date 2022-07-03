@@ -303,6 +303,10 @@ svg {
   vertical-align: middle;
 }
 
+toolicon{
+  height: 32px;
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
