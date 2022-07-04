@@ -318,9 +318,6 @@ caption {
   color: #6c757d;
   text-align: left;
 }
-card {
-  width: 200px;
-}
 
 th {
   text-align: inherit;
@@ -4526,6 +4523,7 @@ textarea.form-control-lg {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
+  margin-top: 0.5rem;
 }
 .card > hr {
   margin-right: 0;
